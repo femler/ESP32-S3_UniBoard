@@ -1,0 +1,61 @@
+Hinweis: Verarbeite Symbol "R2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "H4:MountingHole:MountingHole_3.2mm_M3".
+Hinweis: Verarbeite Symbol "J1:Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV".
+Hinweis: Verarbeite Symbol "C1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "J2:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J3:Hirose_Connector_DF40C:Hirose_DF40C-50".
+Hinweis: Verarbeite Symbol "U3:Package_TO_SOT_SMD:SOT-23-6".
+Hinweis: Verarbeite Symbol "U2:Package_TO_SOT_SMD:SOT-23-5".
+Hinweis: Verarbeite Symbol "R1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "C2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "R3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "R4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "R5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "R6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "SW1:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS".
+Hinweis: Verarbeite Symbol "SW2:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS".
+Hinweis: Verarbeite Symbol "U1:ESP32_Footprints:ESP32-S3-WROOM-1".
+Hinweis: Verarbeite Symbol "H2:MountingHole:MountingHole_3.2mm_M3".
+Hinweis: Verarbeite Symbol "C3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "C4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "C5:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "C6:Capacitor_SMD:CP_Elec_4x5.4".
+Hinweis: Verarbeite Symbol "C7:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "C8:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "C9:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "D1:Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "D2:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "D3:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "D4:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder".
+Hinweis: Verarbeite Symbol "F1:Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Hinweis: Verarbeite Symbol "H1:MountingHole:MountingHole_3.2mm_M3".
+Hinweis: Verarbeite Symbol "H3:MountingHole:MountingHole_3.2mm_M3".
+U1 Pin 14 von /USB_D_P nach /DPr_P wieder verbunden.
+U1 Pin 13 von /USB_D_N nach /DPr_N wieder verbunden.
+U3 Pin 1 von /USB_D_N nach /D_N wieder verbunden.
+U3 Pin 3 von /USB_D_P nach /D_P wieder verbunden.
+U3 Pin 4 von /USB_D_P nach /DPr_P wieder verbunden.
+U3 Pin 6 von /USB_D_N nach /DPr_N wieder verbunden.
+Unbenutztes Netz "/USB_D_N" entfernt.
+Unbenutztes Netz "/USB_D_P" entfernt.
+Netz /DPr_P hinzufügen.
+Netz /D_N hinzufügen.
+J1 Pin B7 von /USB_D_N nach /D_N wieder verbunden.
+Netz /D_P hinzufügen.
+J1 Pin B6 von /USB_D_P nach /D_P wieder verbunden.
+J1 Pin A7 von /USB_D_N nach /D_N wieder verbunden.
+J1 Pin A6 von /USB_D_P nach /D_P wieder verbunden.
+Netz /DPr_N hinzufügen.
+J3 Pin 47 von /USB_D_N nach /DPr_N wieder verbunden.
+J3 Pin 48 von /USB_D_P nach /DPr_P wieder verbunden.
+Fehler: J1 Pad B11 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad B10 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad A11 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad A10 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad A2 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad A3 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad B2 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+Fehler: J1 Pad B3 nicht gefunden in Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV.
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 8.
