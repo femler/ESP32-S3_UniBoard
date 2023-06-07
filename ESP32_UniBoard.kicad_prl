@@ -6,6 +6,7 @@
     "hidden_netclasses": [],
     "hidden_nets": [
       "/EN",
+      "GND",
       "+3V3",
       "VBUS",
       "+5V"
@@ -70,7 +71,7 @@
       40
     ],
     "visible_layers": "ffc95ff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ESP32_UniBoard.kicad_prl",
