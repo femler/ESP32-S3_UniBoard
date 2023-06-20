@@ -3330,7 +3330,7 @@
     (property "Datasheet" "" (at 159.893 62.611 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 233ea9a6-abcb-4769-8555-a606bf971b89))
+    (pin "1" (uuid 7a773fd1-c875-4885-9300-508e1929a2ea))
     (instances
       (project "ESP32_UniBoard"
         (path "/5887f50f-f688-4449-b0b1-5b01ba454700"
@@ -4110,7 +4110,7 @@
     (property "Datasheet" "" (at 159.893 75.311 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ca19d2ba-4858-4436-b947-72085e530e49))
+    (pin "1" (uuid 02bdee01-a777-4ff6-b8ab-c6854f075337))
     (instances
       (project "ESP32_UniBoard"
         (path "/5887f50f-f688-4449-b0b1-5b01ba454700"
@@ -4205,7 +4205,7 @@
     (property "Value" "Hirose DF40C" (at 124.968 192.151 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Hirose_Connector_DF40C:Hirose_DF40C-50" (at 114.808 156.083 0)
+    (property "Footprint" "Hirose_Connector_DF40C:Hirose_DF40C-50DS" (at 114.808 156.083 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 114.808 156.083 0)
@@ -4513,8 +4513,8 @@
     (property "Datasheet" "~" (at 156.718 68.961 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 835458a3-6b39-4e60-b897-1350e0466472))
-    (pin "2" (uuid 4dca1401-39f2-42ce-ae9a-04b230f59ebf))
+    (pin "1" (uuid d9f1b403-0fda-4171-8c4d-8de7e60cef4c))
+    (pin "2" (uuid 79c6f3de-639d-4202-b3e3-23f08f22ce78))
     (instances
       (project "ESP32_UniBoard"
         (path "/5887f50f-f688-4449-b0b1-5b01ba454700"
@@ -4974,8 +4974,8 @@
     (property "Datasheet" "~" (at 163.703 68.961 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ad967a4-5bd3-4021-87f8-a84051742b2a))
-    (pin "2" (uuid 6ed0e537-7fa4-49fc-b301-59a0e57e2ce9))
+    (pin "1" (uuid 578f7895-1b93-4b0e-8716-070a7688901e))
+    (pin "2" (uuid 6830fdbd-0504-4e45-be36-9d80c1dcd8a1))
     (instances
       (project "ESP32_UniBoard"
         (path "/5887f50f-f688-4449-b0b1-5b01ba454700"
