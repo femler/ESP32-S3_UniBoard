@@ -61,9 +61,9 @@
         }
       ],
       "drc_exclusions": [
-        "unconnected_items|106792300|75325600|d9973853-9fde-4ef6-869f-80a8fcc36f79|0d00c90d-5680-43b1-9c28-9c1800614eba",
-        "unconnected_items|106792300|83965600|0d00c90d-5680-43b1-9c28-9c1800614eba|56c2d990-86a1-419c-8983-c397324b70cc",
-        "unconnected_items|110992300|75325600|2653a798-5a2f-43c2-9d9f-744c7bf4c752|d9973853-9fde-4ef6-869f-80a8fcc36f79"
+        "unconnected_items|106729500|76683200|d9973853-9fde-4ef6-869f-80a8fcc36f79|0d00c90d-5680-43b1-9c28-9c1800614eba",
+        "unconnected_items|106729500|85323200|0d00c90d-5680-43b1-9c28-9c1800614eba|56c2d990-86a1-419c-8983-c397324b70cc",
+        "unconnected_items|110929500|76683200|2653a798-5a2f-43c2-9d9f-744c7bf4c752|d9973853-9fde-4ef6-869f-80a8fcc36f79"
       ],
       "meta": {
         "version": 2
