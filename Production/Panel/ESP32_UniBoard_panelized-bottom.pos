@@ -1,0 +1,7 @@
+### Footprint positions - created on Fr 30 Jun 2023 21:46:56 ###
+### Printed by KiCad version 7.0.5-7.0.5~ubuntu23.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                 PosX       PosY       Rot  Side
+J3        dHirose_DF40C-50DS  Hirose_DF40C-50DS    14.0000   -41.1500    0.0000  bottom
+## End

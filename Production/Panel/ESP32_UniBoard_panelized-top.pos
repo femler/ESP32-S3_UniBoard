@@ -1,0 +1,36 @@
+### Footprint positions - created on Fr 30 Jun 2023 21:46:56 ###
+### Printed by KiCad version 7.0.5-7.0.5~ubuntu23.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                                PosX       PosY       Rot  Side
+C1        1uF                      C_0603_1608Metric                                   -1.0280    -9.0341  -90.0000  top
+C2        100nF                    C_0603_1608Metric                                   -0.8000   -43.4500  -90.0000  top
+C3        10uF                     C_0603_1608Metric                                    1.0000    -5.6341   90.0000  top
+C4        100nF                    C_0603_1608Metric                                    3.0780    -5.6340   90.0000  top
+C5        100nF                    C_0603_1608Metric                                   29.0750   -43.4000  -90.0000  top
+C6        22uF                     C_0805_2012Metric                                   13.6000   -28.1000  -90.0000  top
+C8        10uF                     C_0603_1608Metric                                   18.6125   -36.3000  180.0000  top
+C9        100nF                    C_0603_1608Metric                                    8.3666   -36.3000    0.0000  top
+D1        B5819W_SL                D_SOD-123                                           17.7327   -38.3968  180.0000  top
+D2        GRN                      LED_0603_1608Metric                                 25.2031   -30.7018   90.0000  top
+D3        YL                       LED_0603_1608Metric                                 27.2742   -30.7018   90.0000  top
+D4        YL                       LED_0603_1608Metric                                 29.3062   -30.7018   90.0000  top
+F1        1.1_A                    Fuse_0805_2012Metric                                 8.5730   -38.3000    0.0000  top
+J1        USB_C_Receptacle_USB2.0  USB_C_Receptacle_G-Switch_GT-USB-7010ASV             0.6872   -33.7000  -90.0000  top
+J2        Conn_01x06_Socket        PinHeader_1x06_P2.54mm_Vertical                     29.0000    -5.1968    0.0000  top
+R1        5k1                      R_0603_1608Metric                                    2.3478   -27.5614    0.0000  top
+R2        5k1                      R_0603_1608Metric                                    2.3478   -39.8796    0.0000  top
+R3        10k                      R_0603_1608Metric                                   -1.0280    -5.6341  -90.0000  top
+R4        680R                     R_0603_1608Metric                                   25.2031   -27.4844  -90.0000  top
+R5        1k8                      R_0603_1608Metric                                   27.2742   -27.4844  -90.0000  top
+R6        1k8                      R_0603_1608Metric                                   29.3062   -27.4844  -90.0000  top
+REF**     Fiducial_1mm_Mask2mm     Fiducial_1mm_Mask2mm                                45.6500    -6.2500    0.0000  top
+REF**     Fiducial_1mm_Mask2mm     Fiducial_1mm_Mask2mm                               -17.6500    -6.2500    0.0000  top
+REF**     Fiducial_1mm_Mask2mm     Fiducial_1mm_Mask2mm                               -17.6500   -41.7500    0.0000  top
+REF**     Fiducial_1mm_Mask2mm     Fiducial_1mm_Mask2mm                                45.6500   -41.7500    0.0000  top
+SW1       SW_Push                  SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS     3.5000   -46.0000  180.0000  top
+SW2       SW_Push                  SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS    24.7250   -45.9500    0.0000  top
+U1        ESP32-S3-WROOM-1         ESP32-S3-WROOM-1                                    14.0000   -13.0000    0.0000  top
+U2        AZ1117-3.3               SOT-223-3_TabPin2                                   18.6125   -30.8000   90.0000  top
+U3        USBLC6-2SC6              SOT-23-6                                             8.7730   -33.6500    0.0000  top
+## End
